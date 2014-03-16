@@ -1,4 +1,4 @@
-Name:           hello
+Name:           hello 
 Version:        2.8
 Release:        1%{?dist}
 Summary:        The "Hello World" program from GNU
